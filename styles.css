@@ -1,0 +1,116 @@
+.jumbotron {
+    background-color: unset;
+
+}
+a{
+    color:grey;
+}
+
+
+h2{
+color:rgb(39, 185, 185);
+text-align: center;
+
+}
+#services{
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    height: 345px;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    transition: all .2s ease 0s;
+
+}
+
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#patient{
+    background-color:#00b39b;
+    
+}
+#doctor{
+    background-color: #3d83df;
+
+}
+
+#clinic{
+    background-color:rgba(17, 2, 2, 0.199) ;
+
+}
+
+.col-sm{
+    margin-right: 5px;
+    margin-left: 5px;
+ }
+#services p {
+        font-size: 1.5em;
+        font-weight: 300;
+        line-height: 1.2;
+        margin: 0;
+        color: #fff;
+    }
+    #services h3 {
+        font-size: 1.625em;
+        font-weight: 400;
+        color: #fff;
+        margin: .3em 0;}
+        .fin{
+         padding-top: 60px;
+        }
+        .col-sm p{
+            padding:15px;
+        }
+        .col-sm h3{
+            padding:15px;
+        }
+        .logos{
+            display:flex;
+            flex-direction:row;
+            
+            
+        }
+    .para{
+     font-size: 25px ;
+     color: #00b39b;   
+    }
+  
+   .container .brands__logos {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        font-size: 0;
+        width: 67%;
+        list-style: none;
+ }
+
+.brands__logos .tuotempo {    width: 175px;
+ }
+ .brands__logos .gipo {
+    width: 85px;
+}
+.brands__logos .clinicloud {
+    width: 90px;
+}
+.brands__logos ul li {
+    font-size: 1rem;
+    display: inline-block;
+    width: 160px;
+    padding: 5px 0;
+}
+.partie3{
+
+    background-color: cornflowerblue;
+    height:700px;
+}
+.img2{
+padding-top: 250px;
+overflow:hidden;
+position:relative;
+
+}
